@@ -160,5 +160,17 @@
      "name": "Sonic the Hedgehog 3",
     "cover": "https://truffled.lol/png/games/sonic3.webp",
     "url": "{HTML_URL}/Sonic the Hedgehog 3.html" 
+  },
+     {
+    "id": -27,
+     "name": "Super Mario Bros",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/508.png",
+    "url": "{HTML_URL}/Super Mario Bros.html" 
+      },
+    {
+    "id": -28,
+     "name": "64 in 1 NES",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/732.png",
+    "url": "{HTML_URL}/64 in 1 NES.html" 
   }
 ]
