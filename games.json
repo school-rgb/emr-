@@ -6,15 +6,141 @@
     "url": "{HTML_URL}/clcrashbandicoot (1).html"
   },
   {
-    "id": -2,
+    "id": -1,
     "name": "clcrash2",
     "cover": "{COVER_URL}/OIP (6).webp",
     "url": "{HTML_URL}/clcrash2 (1).html"
   },
   {
-    "id": -3,
+    "id": -2,
     "name": "clcrash3",
     "cover": "{COVER_URL}/R.webp",
     "url": "{HTML_URL}/clcrash3.html"
+  },
+    {
+    "id": -3,
+    "name": "Paper Mario",
+    "cover": "https://truffled.lol/png/games/papermario.webp",
+    "url": "{HTML_URL}/clpapermario.html"
+  },
+     {
+    "id": -4,
+    "name": "Pokemon Blue Version",
+    "cover": "https://cdn.mobygames.com/covers/9344513-pokemon-blue-version-game-boy-front-cover.jpg",
+    "url": "{HTML_URL}/clpokeblue.html"
+  },
+  {
+    "id": -5,
+    "name": "super mario galaxy ds ",
+    "cover": "https://th.bing.com/th/id/OIP.X_qmf4oRU-4bKcu9VlEJHwHaGo?w=206&h=184&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3",
+    "url": "{HTML_URL}/clsmgds.html"
+  },
+  {
+    "id": -6,
+    "name": "New Super Mario Bros U DS",
+    "cover": "https://th.bing.com/th/id/OIP.PZUH-y7Y2tb67QUpT1cVRgHaKl?w=140&h=200&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3",
+    "url": "{HTML_URL}/clnsmbuds (1).html"
+  },
+  {
+    "id": -7,
+    "name": "New Super Mario Bros wii DS",
+    "cover": "https://th.bing.com/th/id/R.5a37029eac9ada28867143ccd4fbbe15?rik=iUicOuq4XYYUQQ&pid=ImgRaw&r=0",
+    "url": "{HTML_URL}/clnsmbwds (1).html"
+  },
+     {
+    "id": -8,
+    "name": "Animal Crossing (GAME CUBE PORT)",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/828.png",
+    "url": "{HTML_URL}/Animal Crossing (GAME CUBE PORT).html"
+  },
+     {
+    "id": -9,
+    "name": "super mario 64 ",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/588.png",
+    "url": "{HTML_URL}/super mario 64.html"
+  },
+    {
+    "id": -10,
+    "name": "Mario Party",
+    "cover": "https://tse4.mm.bing.net/th/id/OIP.zzORRhws3r1XR419cn_ROwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/clmarioparty.html"
+  }, 
+  {
+    "id": -11,
+    "name": "Mario Party 2",
+    "cover": "https://th.bing.com/th/id/R.455b9cc61cc14e1237077a6d93b3e815?rik=xFpaUikUToow5Q&pid=ImgRaw&r=0",
+    "url": "{HTML_URL}/clmarioparty2.html"
+  },  
+  {
+    "id": -12,
+    "name": "Mario Party 3",
+    "cover": "https://tse3.mm.bing.net/th/id/OIP.6oQ3ymeIRlSuQLDc7T4vnAHaDt?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/clmarioparty3.html"
+  },
+     {
+    "id": -13,
+    "name": "Mario Kart 64",
+    "cover": "https://truffled.lol/png/games/mk64.webp",
+    "url": "{HTML_URL}/clmk64ampedup.html"
+  },
+      {
+    "id": -14,
+    "name": "Dragon Ball Advanced Adventure",
+    "cover": "https://th.bing.com/th/id/R.8797904111ddaee0e61985e287c1277e?rik=Afb09rMfsNaeTw&riu=http%3a%2f%2fpocketmedia.ign.com%2fpocket%2fimage%2fobject%2f707%2f707190%2fDBZ_AA_PckgGBA_Front.jpg&ehk=KHoE0TapQhBoXmhH33qh3OmFsOYyVJ6JAWXequT7klk%3d&risl=&pid=ImgRaw&r=0",
+    "url": "{HTML_URL}/Dragon Ball Advanced Adventure.html"
+  },
+  {
+    "id": -15,
+    "name": "Dragon Ball Z - Supersonic Warriors",
+    "cover": "https://th.bing.com/th/id/R.4318d1113a9d8c975a2b5c0ffaa168d7?rik=vW1S4kelIbuGmw&pid=ImgRaw&r=0",
+    "url": "{HTML_URL}/Dragon Ball Z - Supersonic Warriors.html"
+  },
+    {
+    "id": -16,
+    "name": "Dragon Ball Z - the Legacy of Goku",
+    "cover": "https://cdn.mobygames.com/covers/3898515-dragon-ball-z-the-legacy-of-goku-game-boy-advance-front-cover.jpg",
+    "url": "{HTML_URL}/Dragon Ball Z - the Legacy of Goku.html"
+  },
+    {
+    "id": -17,
+    "name": "Pokemon Black Version",
+    "cover": "https://tse4.mm.bing.net/th/id/OIP.Obtnmw8CHudwNHooz4IDQQHaGn?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Pokemon Black Version.html"
+  },
+      {
+    "id": -18,
+    "name": "Lego Batman",
+    "cover": "https://www.lukiegames.com/assets/images/DS/ds_lego_batman_the_videogame-110214.jpg",
+    "url": "{HTML_URL}/Lego Batman.html"
+  },
+   {
+    "id": -19,
+    "name": "Lego Batman 2",
+    "cover": "https://tse2.mm.bing.net/th/id/OIP.wghpOEk1ZurU0qjcwgXthgHaHY?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Lego Batman 2.html"
+  },
+  {
+    "id": -20,
+    "name": "Lego Indiana Jones",
+    "cover": "https://tse2.mm.bing.net/th/id/OIP.5862omt4-nb9kczSAdN_0gHaGn?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Lego Indiana Jones.html"
+  },
+  {
+    "id": -21,
+     "name": "Lego Indiana Jones 2",
+    "cover": "https://tse4.mm.bing.net/th/id/OIP.ELVyNfKtORerNNT1_vJiegHaGo?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Lego Indiana Jones 2.html"
+  },
+   {
+    "id": -22,
+     "name": "Mario Kart DS",
+    "cover": "https://tse3.mm.bing.net/th/id/OIP.kGcU1P9BOLscMj-Aoxw34QHaGp?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Mario Kart DS.html"
+  },
+  {
+    "id": -23,
+     "name": "Super Mario 64 DS",
+    "cover": "https://tse3.mm.bing.net/th/id/OIP.IF2ZEw7N-lk5BfF2oYy3BAHaGl?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Super Mario 64 DS.html"
   }
 ]
